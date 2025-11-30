@@ -1,9 +1,3 @@
-Here is a clean, professional **README.md** you can directly use in your GitHub repository. I’ve written it to reflect exactly what your project does, what was left out (XAI), and the datasets used.
-
-You can copy-paste this into a file named **`README.md`** in your project root.
-
----
-
 ## 📌 Project Title
 
 **Robustness Evaluation of Deepfake Detectors Under Real-World and Black-Box Perturbations**
